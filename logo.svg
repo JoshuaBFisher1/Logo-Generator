@@ -1,0 +1,6 @@
+
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="150" cy="100" r="90" fill="blue" />
+    <text x="150" y="115" font-family="Arial" font-size="40" fill="green" text-anchor="middle">jbf</text>
+</svg>
+    
